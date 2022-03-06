@@ -25,7 +25,7 @@ Total number of votes:
 -	Jefferson: 10.5% (38,855)
 - Denver: 82.8% (306,055)
 - Arapahoe: 67% (24,801)
-- 
+
 ![image](https://user-images.githubusercontent.com/98929742/156943342-28706386-d4af-49c7-9c52-be808b1e48fe.png)
 
 
