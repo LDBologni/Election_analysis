@@ -12,7 +12,7 @@ The project was done using Python language, and the data was provided in a CSV f
 
 ## Election-Audit Results
 
-### The results of the analysis are as follows:
+#### The results of the analysis are as follows:
 
 Total number of votes:
 
@@ -21,7 +21,7 @@ Total number of votes:
 ![image](https://user-images.githubusercontent.com/98929742/156943338-fb81f184-10fa-4917-af4c-9cd72e46afbc.png)
 
 
-### List of Candidates who received a vote
+#### List of Candidates who received a vote
 -	Jefferson: 10.5% (38,855)
 - Denver: 82.8% (306,055)
 - Arapahoe: 67% (24,801)
@@ -29,13 +29,13 @@ Total number of votes:
 ![image](https://user-images.githubusercontent.com/98929742/156943342-28706386-d4af-49c7-9c52-be808b1e48fe.png)
 
 
-### Largest County Turnout
+#### Largest County Turnout
 -	Denver is the Largest County Turnout with 82.8% (306,055) votes
 
 ![image](https://user-images.githubusercontent.com/98929742/156943350-9cd9849c-9d27-4603-bbbc-3e13377f7ae1.png)
 
 
-### Percentage and number of votes received by individual candidates.
+#### Percentage and number of votes received by individual candidates.
 
 -	Charles Casper Stockham received 23.0% of the votes (85,213)
 -	Diana DeGette received 73.8% of the vote (272,892)
@@ -44,12 +44,12 @@ Total number of votes:
 ![image](https://user-images.githubusercontent.com/98929742/156943364-295d07e2-1a00-40fa-ab4b-c50c1e9a3258.png)
 
 
-### Winner of the election
+#### Winner of the election
 Diana DeGette, who received 272,892 number of votes, that constitutes the 73.8% of the total votes cast in the election.
 
 ![image](https://user-images.githubusercontent.com/98929742/156943376-c2d85955-f6c2-47b9-a774-446a843b5a94.png)
 
-### Results 
+#### Results 
 
 ![image](https://user-images.githubusercontent.com/98929742/156943517-0fda802a-b1f2-432f-9c95-3aff80ff31ef.png)
 
