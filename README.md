@@ -1,5 +1,5 @@
 # Election_analysis
-Overview of Election Audit:
+## Overview of Election Audit:
 
 The purpose of the project is to assist the Colorado Board of Elections, by realizing an election audit for the recent local congressional elections. 
 The project was done using Python language, and the data was provided in a CSV format. With the use of Python, the data was extracted in order to perform the following tasks:
