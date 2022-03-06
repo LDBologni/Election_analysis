@@ -3,39 +3,39 @@ Overview of Election Audit:
 
 The purpose of the project is to assist the Colorado Board of Elections, by realizing an election audit for the recent local congressional elections. 
 The project was done using Python language, and the data was provided in a CSV format. With the use of Python, the data was extracted in order to perform the following tasks:
-•	Create a list of Candidates who received a vote.
-•	Obtain the total number of votes.
-•	Obtain the winner candidate.
-•	Calculate the number of votes received by individual candidates.
-•	Calculate the percentage of votes received by individual candidates.
-•	Determine the Largest County Turnout
+-Create a list of Candidates who received a vote.
+-	Obtain the total number of votes.
+-	Obtain the winner candidate.
+-	Calculate the number of votes received by individual candidates.
+-	Calculate the percentage of votes received by individual candidates.
+-	Determine the Largest County Turnout
 
 ## Election-Audit Results
 
 ### The results of the analysis are as follows:
 Total number of votes
-•	Total of 369,711 votes were cast in this congressional election.
+-	Total of 369,711 votes were cast in this congressional election.
 ![image](https://user-images.githubusercontent.com/98929742/156943338-fb81f184-10fa-4917-af4c-9cd72e46afbc.png)
 
 
 ### List of Candidates who received a vote
-•	Jefferson: 10.5% (38,855)
-•	Denver: 82.8% (306,055)
-•	Arapahoe: 67% (24,801)
+-	Jefferson: 10.5% (38,855)
+- Denver: 82.8% (306,055)
+- Arapahoe: 67% (24,801)
 ![image](https://user-images.githubusercontent.com/98929742/156943342-28706386-d4af-49c7-9c52-be808b1e48fe.png)
 
 
 ### Largest County Turnout
-•	Denver is the Largest County Turnout with 82.8% (306,055) votes
+-	Denver is the Largest County Turnout with 82.8% (306,055) votes
 
 ![image](https://user-images.githubusercontent.com/98929742/156943350-9cd9849c-9d27-4603-bbbc-3e13377f7ae1.png)
 
 
 ### Percentage and number of votes received by individual candidates.
 
-•	Charles Casper Stockham received 23.0% of the votes (85,213)
-•	Diana DeGette received 73.8% of the vote (272,892)
-•	Raymon Anthony Doane received 3.1% of the vote and (11,606).
+-	Charles Casper Stockham received 23.0% of the votes (85,213)
+-	Diana DeGette received 73.8% of the vote (272,892)
+-	Raymon Anthony Doane received 3.1% of the vote and (11,606).
 
 ![image](https://user-images.githubusercontent.com/98929742/156943364-295d07e2-1a00-40fa-ab4b-c50c1e9a3258.png)
 
