@@ -13,8 +13,11 @@ The project was done using Python language, and the data was provided in a CSV f
 ## Election-Audit Results
 
 ### The results of the analysis are as follows:
-Total number of votes
+
+Total number of votes:
+
 -	Total of 369,711 votes were cast in this congressional election.
+
 ![image](https://user-images.githubusercontent.com/98929742/156943338-fb81f184-10fa-4917-af4c-9cd72e46afbc.png)
 
 
@@ -22,6 +25,7 @@ Total number of votes
 -	Jefferson: 10.5% (38,855)
 - Denver: 82.8% (306,055)
 - Arapahoe: 67% (24,801)
+- 
 ![image](https://user-images.githubusercontent.com/98929742/156943342-28706386-d4af-49c7-9c52-be808b1e48fe.png)
 
 
