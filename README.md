@@ -58,6 +58,6 @@ Diana DeGette, who received 272,892 number of votes, that constitutes the 73.8% 
 
 The Python code script used for this project is focused on a limited small-scale data, but with an extensive and detailed data set, it can be used as a base code to be refactored and to expand the scale and the scope.
 
-For example, this code could be used for a greater scale such a State Elections or Presidential Elections. It would require the addition of different lists and dictionaries. 
+For example, this code could be used for a greater scale such as, State Elections or Presidential Elections. It would require the addition of different lists and dictionaries. 
 
 In addition the script can be modified to count the voting method and analyze the percentage of the voting method, the analysis would provide the most popular voting method as well for the trend for the following elections.
